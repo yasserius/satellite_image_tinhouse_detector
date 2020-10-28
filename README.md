@@ -5,9 +5,9 @@
 Detection of tin houses from satellite/aerial images, trained using the Tensorflow 2 Object Detection API.
 
 <div>
-  <img src="https://github.com/yasserius/satellite_image_tinhouse_detector/blob/main/images/good_1.png?raw=true" height=300>
-  <img src="https://github.com/yasserius/satellite_image_tinhouse_detector/blob/main/images/good_2.png?raw=true" height=300>
-  <img src="https://github.com/yasserius/satellite_image_tinhouse_detector/blob/main/images/good_3.png?raw=true" height=300>
+  <img src="https://github.com/yasserius/satellite_image_tinhouse_detector/blob/main/images/good_1.png?raw=true" height=250px>
+  <img src="https://github.com/yasserius/satellite_image_tinhouse_detector/blob/main/images/good_2.png?raw=true" height=250px>
+  <img src="https://github.com/yasserius/satellite_image_tinhouse_detector/blob/main/images/good_3.png?raw=true" height=250px>
 </div>
 
 # Demo
