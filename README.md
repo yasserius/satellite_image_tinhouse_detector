@@ -4,11 +4,7 @@
 
 Detection of tin houses from satellite/aerial images, trained using the Tensorflow 2 Object Detection API.
 
-<div>
-  <img src="https://github.com/yasserius/satellite_image_tinhouse_detector/blob/main/images/good_1.png?raw=true" height=250px>
-  <img src="https://github.com/yasserius/satellite_image_tinhouse_detector/blob/main/images/good_2.png?raw=true" height=250px>
-  <img src="https://github.com/yasserius/satellite_image_tinhouse_detector/blob/main/images/good_3.png?raw=true" height=250px>
-</div>
+<img src="https://github.com/yasserius/satellite_image_tinhouse_detector/blob/main/images/poster.png?raw=true" height=250px>
 
 # Demo
 
@@ -42,5 +38,5 @@ The training was done using the Tensorflow 2 Object Detection API.
 <img src="https://github.com/yasserius/satellite_image_tinhouse_detector/blob/main/images/bad_5.png?raw=true">
 
 # How to improve detection
-* Train on larger dataset.
-- Use image augmentations like change in brightness, contrast, random crops and rotations.
+* Train on larger dataset. (Active learning is a very good option.)
+* Use image augmentations like change in brightness, contrast, random crops and rotations.
