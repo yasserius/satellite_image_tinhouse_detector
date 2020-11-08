@@ -4,6 +4,8 @@
 
 Detection of tin houses from satellite/aerial images, trained using the Tensorflow 2 Object Detection API.
 
+Satellite images are rich with information about people and the Earth. The latest advancements in deep learning and object detection has allowed very accurate analysis of satellite images. This project is a proof-of-concept of how satellite images can be applied to understand rural Bangladesh better. The project have a lot of potential in revealing various insights about villages in Bangladesh.
+
 <img src="https://github.com/yasserius/satellite_image_tinhouse_detector/blob/main/images/poster.png?raw=true" height=300px>
 
 # Demo
