@@ -28,6 +28,7 @@ The notebook contains detailed instructions and a link to the data.
 The training was done using the Tensorflow 2 Object Detection API.
 
 # Wrong Detections
+See all 128 test output images: [Google Drive](https://drive.google.com/drive/folders/1Mbgk4ga5AqiwxFoQ9OJjuIBLIB7i0kb-?usp=sharing)
 ## Missed detections
 <img src="https://github.com/yasserius/satellite_image_tinhouse_detector/blob/main/images/bad_1.png?raw=true">
 <img src="https://github.com/yasserius/satellite_image_tinhouse_detector/blob/main/images/bad_3.png?raw=true">
